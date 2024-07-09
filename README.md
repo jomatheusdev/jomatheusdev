@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">Currently Reading</h2>
+<h2 align="left">Reading Collection</h2>
 
 ###
 
