@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Full-Stack Developer<br>- Contact me at jomatheusdev@gmail.com.</p>
+<p align="left">🚩 My name is João Matheus, I am 21 years old, and I am in the 4th semester of the Information Systems program at Unifacisa. I have an advanced level of English and an intermediate level of Japanese.<br><br>- Full-Stack Developer<br>- Contact me at jomatheusdev@gmail.com.</p>
 
 ###
 
