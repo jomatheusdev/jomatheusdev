@@ -38,7 +38,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=FFFFFF&section=footer&reversal=false"  />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=8c8c8c&reversal=false&section=footer"  />
 </div>
 
 ###
